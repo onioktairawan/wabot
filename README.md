@@ -1,6 +1,4 @@
-markdown
-Salin
-Edit
+
 # 🤖 WhatsApp Userbot Secure
 
 Userbot WhatsApp multifungsi dengan sistem konfigurasi aman menggunakan `.env` dan `config.json`.
