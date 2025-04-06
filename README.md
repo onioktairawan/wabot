@@ -21,7 +21,7 @@ Userbot WhatsApp multifungsi dengan sistem konfigurasi aman menggunakan `.env` d
 1. **Clone repo atau unduh ZIP**:
    ```bash
    git clone https://github.com/onioktairawan/wabot.git
-   cd whatsapp-userbot-secure
+   cd wabot
 Install dependency:
 
 bash
